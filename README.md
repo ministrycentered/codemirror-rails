@@ -97,3 +97,5 @@ rails generate codemirror:install
 ### Contributing
 
 Find a mistake? New version of CodeMirror? Submit a pull request!
+
+#### TEST
